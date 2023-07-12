@@ -1,0 +1,3 @@
+[submodule "Django_Blog"]
+	path = Django_Blog
+	url = https://github.com/gshreeram/py_django_blog
